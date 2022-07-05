@@ -55,7 +55,7 @@ todos los elementos que contiene.
 
  ### SINCHES HUGO IVÁN : Programador web y Capacitador de Robotica Educativa
 >
- ### GONZALES LEANDRO EMANUEL:
+ ### GONZALES LEANDRO EMANUEL: Estudiante de la Tecnicatura en Innovacion y Tecnologias 4.0 del ISPC
 >
  ### TRASMONTANA MARIANO B:
 >

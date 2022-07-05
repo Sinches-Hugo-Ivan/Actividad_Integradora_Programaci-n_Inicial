@@ -47,7 +47,24 @@ def Pantalla3():
         input("Presione ENTER para volver al menu...")
         return menu
 
+def Pantalla4():
+    clear()
+    active = False
+    while not active:
+        #  recibe como parámetro la lista y devuelve el valor máximo de todos los elementos que contiene.
+        print("El Maximo es: " ,max(lista))
+        input("Presione ENTER para volver al menu...")
+        return menu
 
+def Pantalla5():
+    clear()
+    active = False
+    while not active:
+      # recibe como parámetro la lista y devuelve el valor mínimo de todos los elementos que contiene.
+      print("El Minimo es: " ,min(lista))
+      input("Presione ENTER para volver al menu...")
+      return menu
+    
 
 
 menu= active = False

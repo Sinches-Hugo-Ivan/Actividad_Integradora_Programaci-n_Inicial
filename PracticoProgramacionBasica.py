@@ -28,18 +28,42 @@ def Pantalla1():
                  
              
        
-
 def Pantalla2():
-    
+    clear()
+    active = False
+    while not active:
+       # recibe como parámetro la lista y devuelve la suma total de todos sus elementos 
+       print("La Suma es: " ,sum(lista))
+       input("Presione ENTER para volver al menu...")
+       return menu
 
 def Pantalla3():
-   
+    clear()
+    active = False
+    while not active:
+        # recibe como parámetro la lista y devuelve el promedio de sus elementos.
+        prom = sum(lista) / len(lista)
+        print("El Promedio es: " ,prom)
+        input("Presione ENTER para volver al menu...")
+        return menu
 
 def Pantalla4():
-    
+    clear()
+    active = False
+    while not active:
+        #  recibe como parámetro la lista y devuelve el valor máximo de todos los elementos que contiene.
+        print("El Maximo es: " ,max(lista))
+        input("Presione ENTER para volver al menu...")
+        return menu
 
 def Pantalla5():
- 
+    clear()
+    active = False
+    while not active:
+      # recibe como parámetro la lista y devuelve el valor mínimo de todos los elementos que contiene.
+      print("El Minimo es: " ,min(lista))
+      input("Presione ENTER para volver al menu...")
+      return menu
 
 
 

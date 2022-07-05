@@ -57,7 +57,7 @@ todos los elementos que contiene.
 >
  ### GONZALES LEANDRO EMANUEL: Estudiante de la Tecnicatura en Innovacion y Tecnologias 4.0 del ISPC
 >
- ### TRASMONTANA MARIANO B:
+ ### TRASMONTANA MARIANO B: Estudiante de la Tecnicatura en Innovacion y Tecnologias 4.0 del ISPC 
 >
 >
 
